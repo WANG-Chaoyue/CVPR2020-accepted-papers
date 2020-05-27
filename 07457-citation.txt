@@ -1,0 +1,7 @@
+@InProceedings{SAAT,
+author = {Zheng, Qi and Wang, Chaoyue and Tao, Dacheng},
+title = {Syntax-Aware Action Targeting for Video Captioning},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2020}
+}
